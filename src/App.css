@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/*  */
+.map-container {
+  float: left;        /* Float the map container to the left */
+  width: 200px;       /* Set width of the map container */
+  height: 200px;      /* Set height of the map container */
+  margin-right: 20px; /* Optional: Add some margin between map and other content */
 }
